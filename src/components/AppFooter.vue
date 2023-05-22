@@ -133,7 +133,6 @@ export default {
     }
     .my-bg-color {
         background-color: #303030;
-        height: 14.1vh;
     }
     button {
         color: white;
